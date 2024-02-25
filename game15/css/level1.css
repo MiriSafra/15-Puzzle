@@ -1,0 +1,61 @@
+﻿body {
+    background-image: url('../images/k.jpg');
+    background-size: auto;
+    font-family: Bokertov;
+    font-family: BokertovLight;
+    transition: 0.5s;
+}
+
+td {
+    width: 150px;
+    height: 150px;
+    font-size: 100px;
+    text-align: center;
+    background-color: fuchsia;
+    border: solid 5px white;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    color: white;
+    font-family: 'Comic Sans MS';
+}
+
+table {
+    margin-top: 6%;
+ 
+}
+#zero {
+    background-color: white;
+}
+
+.board {
+    width: 70%;
+    height: 2000px;
+    border: solid 2px;
+}
+
+input[type=button] {
+    background-color: rgb(54,54,54);
+    border: none;
+    width: 300px;
+    height: 60px;
+    text-align: center;
+    color: white;
+    border-radius: 4px;
+    padding: 8px;
+    margin-top: 40px;
+    margin-left: 30px;
+    margin-right: 20px;
+    font-size: 30px;
+    font-family: Bokertov;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+    input[type=button]:hover {
+        opacity: 0.8;
+        transition: 0.3s;
+    }
+p {
+    font-family:'koby';
+    color: #82207f;
+    font-size:50px;
+}

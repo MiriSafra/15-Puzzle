@@ -1,0 +1,90 @@
+﻿#p1 {
+    font-size: 50px;
+    font-family: Bokertov;
+}
+
+#divhome {
+    margin-top: 150px;
+    width: 450px;
+    height: 120px;
+}
+
+#name {
+    width: 500px;
+    height: 100px;
+    font-size: 50px;
+    text-align:center;
+    margin-top: 30%;
+    border-radius: 4px;
+    background-color: #f1f2f2;
+}
+
+#pass {
+    width: 500px;
+    height: 100px;
+    font-size: 50px;
+    margin-top: 20px;
+    border-radius: 4px;
+}
+
+.inputM {
+    background-color:fuchsia;
+    border: none;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    color: white;
+    border-radius: 4px;
+    padding: 8px;
+    font-size:30px;
+}
+
+    .inputM:hover {
+        opacity: 0.8;
+        transition: 0.3s;
+    }
+
+header {
+    text-align: center;
+    background-color: rgb(54,54,54);
+    color: white;
+    font-size: 50px;
+    font-family: Bokertov;
+    height: 100px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+#myBtn {
+    width: 500px;
+    margin-top: 20px;
+    height: 100px;
+    font-size: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    cursor: pointer;
+    background-color: fuchsia;
+    font-size: 40px;
+    padding: 13px;
+    overflow: hidden;
+    padding: 14px 20px;
+    margin: 8px 0;
+    text-align: center;
+    color: white;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+}
+
+    #myBtn:hover {
+        opacity: 0.8;
+        transition: 0.3s;
+    }
+
+body {
+    background-image: url('../images/k.jpg');
+    background-size: auto;
+    font-family: MAfgana;
+}
+p {
+    font-size: 30px;
+    color: fuchsia;
+}
